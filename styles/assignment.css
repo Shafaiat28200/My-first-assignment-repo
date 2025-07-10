@@ -1,0 +1,42 @@
+nav {
+    width: 100%;
+}
+header {
+    background-image: url(/Assets/Hero-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.for-display {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 20px 50px; 
+  color: #4E47FF;
+  font-size: 23px;
+}
+.primary-btn{
+    background-color: #4E47FF;
+    color: #ffff;
+    border-radius: 10px;
+    width: 100px;
+    height: 48px;
+    cursor: pointer;
+    border: none;
+
+}
+.primary-btn:hover{
+    background-color:rgba(139, 41, 6, 0.781) ;
+}
+.baner {
+    flex: 1;
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    text-align: center;
+    font-size: 38px;
+}
+
