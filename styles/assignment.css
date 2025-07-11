@@ -15,7 +15,7 @@ header{
     flex-direction: column;
     justify-content: space-around;
 }
-}
+
 .for-display {
   display: flex;
   justify-content: space-between; 
