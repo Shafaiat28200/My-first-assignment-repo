@@ -6,14 +6,15 @@ nav {
     width: 100%;
     margin: 0 auto;
 }
-header {
-    background-image: url(/Assets/Hero-bg.png);
+header{
+    background-image: url("/Assets/Hero-bg.png");
     background-size: cover;
     background-position: center;
     height: 100vh; 
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
 }
 .for-display {
   display: flex;
