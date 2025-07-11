@@ -7,7 +7,7 @@ nav {
     margin: 0 auto;
 }
 header {
-    background-image: url(/Assets/Hero-bg.png);
+    background-image: url("/Assets/Hero-bg.png");
     background-size: cover;
     background-position: center;
     height: 100vh; 
